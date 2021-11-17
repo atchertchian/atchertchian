@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 Playing with GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=atchertchian&count_private=true&show_icons=true&include_all_commits=true&hide=issues,stars&hide_rank=true)
+![trophy](https://github-profile-trophy.vercel.app/?username=atchertchian&row=1&column=3)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=atchertchian)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=atchertchian&count_private=true&show_icons=true&include_all_commits=true&hide=issues,stars)
